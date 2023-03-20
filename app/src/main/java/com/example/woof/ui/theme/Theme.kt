@@ -29,6 +29,7 @@ private val DarkColorPalette = darkColors(
     surface = Cyan700,
     onSurface = White,
     primary = Grey900,
+    primaryVariant = Purple200,
     onPrimary = White,
     secondary = Grey100
 )
@@ -50,6 +51,7 @@ private val LightColorPalette = lightColors(
     surface = Green50,
     onSurface = Grey900,
     primary = Grey50,
+    primaryVariant = Purple200,
     onPrimary = Grey900,
     secondary = Grey700
 )
